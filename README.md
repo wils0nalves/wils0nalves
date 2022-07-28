@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wils0nalves
 - 👀 I’m interested in Software Development, Excel, Power BI, Mysql.
-- 🌱 I’m currently learning Power Bi
+- 🌱 I’m currently learning Power Bi and Python
 - 💞️ I’m looking to collaborate on Development, MySQL, PowerBI projects.
 - 📫 How to reach me yuri.tinocoalves13@hotmail.com
