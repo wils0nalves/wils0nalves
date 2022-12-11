@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=800&lines=OLÁ+AMIGO+DESENVOLVEDOR!;ME+CHAMO+WILSON+ALVES,TENHO+24+ANOS+DE+IDADE.;MORO+NA+CIDADE+DE+SILVA+JARDIM+🌳🌈+Rio+de+Janeiro.;Estudo+Desenvolvimento+de+Software+e+Banco+de+Dados.;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=800&lines=OLÁ+AMIGO+DESENVOLVEDOR!;ME+CHAMO+WILSON+ALVES,TENHO+24+ANOS+DE+IDADE.;MORO+NA+CIDADE+DE+SILVA+JARDIM+🌳🌈+RJ.;Estudo+Desenvolvimento+de+Software+e+Banco+de+Dados.;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
  
 <br>
 
