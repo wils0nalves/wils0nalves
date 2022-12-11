@@ -4,14 +4,14 @@
  
 <br>
 
-<div>
+<div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wils0nalves&show_icons=true&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wils0nalves&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
 
-###Minhas Redes Sociais:
+### Minhas Redes Sociais:
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/wilson-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
