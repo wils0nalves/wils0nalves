@@ -1,15 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
+ <div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+WILSON+ALVES;TENHO+24+ANOS+DE+IDADE;Moro+na+cidade+de+Silva+Jardim,+RJ;Eu+Estudo+Desenvolvimento+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+</div>
+
+<br>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wils0nalves&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wils0nalves&layout=compact&theme=tokyonight"/>
 </div>
  
+<br>
+
+<div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wils0nalves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+</div>
+ 
+<br>
 
 <div align="center">  
 <a href="https://www.instagram.com/wils0n_alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -47,7 +57,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wils0nalves}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
