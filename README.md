@@ -11,16 +11,18 @@
  
 <br>
 
-<div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wils0nalves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-</div>
- 
-<br>
-
 <div align="center">  
+ 
+<a href="https://www.linkedin.com/in/wilson-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
 <a href="https://www.instagram.com/wils0n_alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+<a href="https://twitter.com/YuriTinocoAlves/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
+ 
+<a href="https://www.facebook.com/yuri.tinocoalves/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
+  
+<a href="wilson#0178" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
+ 
 </div> 
  
 ### Principais Conhecimentos:
