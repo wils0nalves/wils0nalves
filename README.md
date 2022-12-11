@@ -52,7 +52,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitantes ao Meu perfil 👨‍💻</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wils0nalves}/count.svg" /></p> 
 <br></div>
 
