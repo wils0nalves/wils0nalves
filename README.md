@@ -5,9 +5,7 @@
 <br>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=wils0nalves&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wils0nalves&layout=compact&theme=tokyonight"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <br>
