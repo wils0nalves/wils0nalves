@@ -16,10 +16,10 @@ Desenvolvedor focado em sistemas, automação e bancos de dados
 
 ## 🚀 Sobre mim
 
-- 🔹 Desenvolvo sistemas e automações para otimizar processos
-- 🔹 Forte atuação com banco de dados (SQL, Access, Excel)
-- 🔹 Atualmente evoluindo em **C# / ASP.NET**
-- 🔹 Interesse em sistemas corporativos e soluções escaláveis
+ 🔹 Desenvolvo sistemas e automações para otimizar processos
+ 🔹 Forte atuação com banco de dados (SQL, Access, Excel)
+ 🔹 Atualmente evoluindo em **C# / ASP.NET**
+ 🔹 Interesse em sistemas corporativos e soluções escaláveis
 
 ---
 
