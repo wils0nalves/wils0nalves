@@ -3,22 +3,24 @@
 <h1 align="center">👨‍💻 Wilson Alves</h1>
 
 <p align="center">
-Desenvolvedor com foco em desenvolvimento de sistemas, automação de processos e análise de dados, com experiência em modelagem e manipulação de bancos de dados para geração de insights e eficiência operacional.
+Desenvolvedor focado em sistemas corporativos, automação de processos e análise de dados, com forte atuação em bancos de dados e soluções práticas para ganho de eficiência operacional.
 </p>
 
 <p align="center">
-💻 C# • SQL • ASP.NET • Excel • Automação  
+💻 C# • SQL • VBA • Access • Excel  
 <br>
+🚀 Automação, dados e sistemas na prática
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
--  Desenvolvo sistemas e automações para otimizar processos
--  Forte atuação com banco de dados (SQL, Access, Excel)
--  Atualmente evoluindo em **C# / ASP.NET**
--  Interesse em sistemas corporativos e soluções escaláveis
+- Desenvolvo sistemas e automações voltados para otimização de processos
+- Experiência sólida com bancos de dados (SQL, Access e Excel)
+- Criação de soluções práticas utilizando VBA e integração de sistemas
+- Evoluindo continuamente em **C# / .NET / ASP.NET**
+- Foco em eficiência, organização de dados e resolução de problemas reais
 
 ---
 
@@ -40,28 +42,29 @@ Desenvolvedor com foco em desenvolvimento de sistemas, automação de processos 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ### 🌐 Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ### 🧰 Ferramentas
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Office](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 ---
 
 ## 📚 Estudando atualmente
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
