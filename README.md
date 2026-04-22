@@ -3,13 +3,12 @@
 <h1 align="center">👨‍💻 Wilson Alves</h1>
 
 <p align="center">
-Desenvolvedor focado em sistemas, automação e bancos de dados
+Desenvolvedor com foco em desenvolvimento de sistemas, automação de processos e análise de dados, com experiência em modelagem e manipulação de bancos de dados para geração de insights e eficiência operacional.
 </p>
 
 <p align="center">
 💻 C# • SQL • ASP.NET • Excel • Automação  
 <br>
-🚀 Construindo soluções reais e eficientes
 </p>
 
 ---
