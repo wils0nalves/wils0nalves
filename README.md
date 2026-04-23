@@ -16,7 +16,7 @@ Desenvolvedor focado em sistemas corporativos, automação de processos e análi
 ## Sobre mim
 
 - Desenvolvo sistemas e automações com foco em sistemas legados.
-- Trnho Experiência sólida com bancos de dados e tratamento de dados (SQL, Access e PowerBI(M e DAX), PowerQuery, Excel).
+- Tenho Experiência sólida com bancos de dados e tratamento de dados (SQL, Access e PowerBI(M e DAX), PowerQuery, Excel).
 - Evoluindo continuamente em **C# / .NET / ASP.NET**
 
 ---
