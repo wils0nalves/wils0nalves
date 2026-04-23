@@ -9,18 +9,15 @@ Desenvolvedor focado em sistemas corporativos, automação de processos e análi
 <p align="center">
 💻 C# • SQL • VBA • Access • Excel  
 <br>
-🚀 Automação, dados e sistemas na prática
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- Desenvolvo sistemas e automações voltados para otimização de processos
-- Experiência sólida com bancos de dados (SQL, Access e Excel)
-- Criação de soluções práticas utilizando VBA e integração de sistemas
+- Desenvolvo sistemas e automações com foco em sistemas legados.
+- Trnho Experiência sólida com bancos de dados e tratamento de dados (SQL, Access e PowerBI(M e DAX), PowerQuery, Excel).
 - Evoluindo continuamente em **C# / .NET / ASP.NET**
-- Foco em eficiência, organização de dados e resolução de problemas reais
 
 ---
 
