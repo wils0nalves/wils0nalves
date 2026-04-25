@@ -56,7 +56,7 @@ Focado em sistemas corporativos, automação de processos e soluções de alta e
 ## 🌎 Onde me encontrar
 
 <div align="center">
-<a href="https://www.linkedin.com/in/wilson-yuri-alves-47580323a" target="_blank">
+<a href="linkedin.com/in/wilson-alves-47580323a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yuri.tinocoalves13@hotmail.com">
