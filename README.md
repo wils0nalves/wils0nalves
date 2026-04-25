@@ -11,8 +11,6 @@ Focado em sistemas corporativos, automação de processos e soluções de alta e
 💻 C# • .NET Core • SQL Server • VBA • Power BI • LGPD
 </p>
 
----
-
 ## 🚀 Sobre mim
 
 - 🏢 Atuo no desenvolvimento de sistemas internos e automações com foco em ganho de produtividade.
@@ -21,16 +19,12 @@ Focado em sistemas corporativos, automação de processos e soluções de alta e
 - 📜 Certificado **ITIL V4 Foundation**, com sólida base em gestão de serviços de TI.
 - 🎓 Bacharel em **Sistemas de Informação** pela UNIVERSO.
 
----
-
 ## 📊 Estatísticas
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=wils0nalves&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wils0nalves&layout=compact&theme=tokyonight"/>
 </div>
-
----
 
 ## 🧠 Hard Skills
 
@@ -51,19 +45,13 @@ Focado em sistemas corporativos, automação de processos e soluções de alta e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ## 🌎 Contato / Onde me encontrar
 
-<div align="center">
-<a href="https://www.linkedin.com/in/wilson-alves-47580323a/" target="_blank">
+<a href="https://www.linkedin.com/in/wilson-yuri-alves-47580323a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yuri.tinocoalves13@hotmail.com">
 <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
-</div>
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfbf&height=120&section=footer"/>
