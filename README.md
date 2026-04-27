@@ -78,6 +78,4 @@ Atuo criando aplicações que reduzem esforço operacional, aumentam produtivida
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfbf&height=120&section=footer"/>
