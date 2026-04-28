@@ -3,12 +3,16 @@
 <h1 align="center">👨‍💻 Wilson Yuri Alves</h1>
 
 <p align="center">
-<b>Desenvolvedor .NET | Dados, BI & Automação</b><br>
-Especialista em transformar processos manuais em soluções escaláveis e orientadas a dados.
+  <b>Desenvolvedor .NET | Data & BI Analyst | Automação de Processos</b><br>
+  <i>Especialista em transformar fluxos manuais em soluções escaláveis e orientadas a dados.</i>
 </p>
 
 <p align="center">
-💻 C# • .NET • SQL Server • Power BI • VBA • Automação • Dados
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 ---
@@ -27,6 +31,8 @@ Atuo criando aplicações que reduzem esforço operacional, aumentam produtivida
 
 📜 Certificado **ITIL V4 Foundation**  
 🎓 Bacharel em **Sistemas de Informação (UNIVERSO)**
+
+> **Diferencial:** Atuo na ponte entre a tecnologia e a necessidade de negócio, traduzindo problemas complexos em soluções técnicas eficientes.
 
 ---
 
@@ -69,7 +75,9 @@ Atuo criando aplicações que reduzem esforço operacional, aumentam produtivida
 
 ---
 
-## 🌎 Contato
+## 🤝 Vamos nos conectar?
+
+Estou sempre aberto a trocar ideias sobre arquitetura de sistemas, engenharia de dados e automação.
 
 <a href="https://www.linkedin.com/in/wilson-alves-47580323a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
