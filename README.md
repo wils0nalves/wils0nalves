@@ -36,15 +36,6 @@ Atuo criando aplicações que reduzem esforço operacional, aumentam produtivida
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wils0nalves&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wils0nalves&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🧠 Stack Técnica
 
 ### 💻 Backend & Automação
