@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:1e90ff&height=140&section=header"/>
 
-<h1 align="center">👨‍💻 Wilson Yuri Alves</h1>
+<h1 align="center"> Wilson Yuri Alves</h1>
 
 <p align="center">
   <b>Desenvolvedor .NET | Data & BI Analyst | Automação de Processos</b><br>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor com foco em **sistemas corporativos, automação de processos e soluções orientadas a dados**.
 
@@ -59,7 +59,7 @@ Atuo criando aplicações que reduzem esforço operacional, aumentam produtivida
 
 ## 🎯 Diferenciais
 
-- 🚀 Mentalidade orientada a **resultado e eficiência operacional**
+ Mentalidade orientada a **resultado e eficiência operacional**
 - 🔄 Experiência prática com **automação de processos corporativos**
 - 📊 Forte capacidade analítica (dados + negócio)
 - 🤝 Comunicação clara entre áreas técnicas e não técnicas
