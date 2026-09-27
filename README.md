@@ -59,7 +59,7 @@ Atuo criando aplicações que reduzem esforço operacional, aumentam produtivida
 
 ## 🎯 Diferenciais
 
- Mentalidade orientada a **resultado e eficiência operacional**
+- Mentalidade orientada a **resultado e eficiência operacional**
 - 🔄 Experiência prática com **automação de processos corporativos**
 - 📊 Forte capacidade analítica (dados + negócio)
 - 🤝 Comunicação clara entre áreas técnicas e não técnicas
